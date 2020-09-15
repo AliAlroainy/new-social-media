@@ -1,0 +1,130 @@
+/* start login form */
+
+.login-form{
+    
+    position: relative;
+    top: 100px;
+    background: #eee;
+    padding: 40px;
+}
+
+.login-btn{
+    
+ 
+    height: 50px;
+    border: 1px solid #3a2279;
+    background: #3a2279;
+    color: #fff;
+    font-weight: bold;
+    
+}
+.login-btn:hover{
+    
+    height: 50px;
+    border: 1px solid #3a2279;
+    background: #fff;
+    color: #3a2279;
+    font-weight: bold;
+}
+/* end login form */
+
+/* start nav */
+
+.navbar{
+    
+    background: #3a2279;
+    
+}
+
+.navbar-default .navbar-nav>li>a{
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+   
+}
+.navbar-default .navbar-nav>li>a:hover{
+    color: brown;
+}
+.navbar-default .navbar-brand{
+    color: #fff;
+}
+
+/* end nav */
+
+/* start home page  */
+.test{
+    border: 2px;
+    border-color: black;
+    
+}
+.ads{
+    
+    height: 400px;
+}
+
+.panel-default>.panel-heading {
+    height: 45px;
+    
+    background-color: #3a2279; 
+    background-image: linear-gradient(to bottom,#3a2279 0,#3a2279 100%);
+}
+.panel-default>.panel-heading p{
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+/* end home page */
+
+/* start profile */
+
+.postes{
+    
+    height: 600px;
+}
+.info li:nth-child(odd){
+    background-color: #eee;
+                       }
+
+.info li{
+    padding: 10px;
+    
+}
+
+.info li span {
+    display: inline-block ;
+    width: 100px;
+    
+}
+
+/* end profile */
+
+/* start control page  */
+
+.fa-star{
+    font-size: 20px;
+    color: #ffb403;
+    
+}
+.fa-eye{
+    font-size: 20px;
+    
+}
+
+.fa-heart{
+    font-size: 20px;
+    color: #f00;
+}
+
+.fa-circle {
+    
+   /* font-size: 20px; */
+    color:#2ccc06;
+}
+.fa-ban{
+   font-size: 20px;
+    color: #a94442 ;   
+}
+/* end control page  */
